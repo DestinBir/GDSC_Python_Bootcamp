@@ -34,9 +34,9 @@
 - Jour 30 : Évaluation finale pour évaluer la compréhension globale des apprenants.
 
 **Ressources supplémentaires :**
-- Documentation Python officielle.
-- Tutoriels en ligne et vidéos explicatives.
-- Forums de discussion et communautés de programmation pour poser des questions et obtenir de l'aide.
+- Documentation Python officielle: https://python.org
+- Articles et supports: https://codegrowthalive.com/blog 
+- Forum WhatsApp de discussion sur le bootcamp pour poser des questions et obtenir de l'aide: 
 - Livres recommandés pour approfondir les connaissances en Python.
 
 **Remarque :** Il est recommandé aux apprenants de consacrer au moins 1 à 2 heures par jour à l'étude et à la pratique pour tirer le meilleur parti de ce bootcamp intensif de 30 jours.

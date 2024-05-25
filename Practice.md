@@ -1,6 +1,8 @@
-# Bootcamp de Débutant en Python - Programme de 30 Jours avec Projets Réels
+# Bootcamp de Débutant en Python - Programme de 30 Jours
 
-## **Objectif :** Ce bootcamp intensif de 30 jours vise à fournir aux débutants une introduction complète à la programmation en Python, en se concentrant sur les concepts fondamentaux et en offrant des projets pratiques pour renforcer les compétences acquises.
+**Objectif :** Ce bootcamp intensif de 30 jours vise à fournir aux débutants une introduction complète à la programmation en Python, en se concentrant sur les concepts fondamentaux et en offrant des projets pratiques pour renforcer les compétences acquises.
+
+## Partie pratique et projets
 
 ## **Semaine 1 : Fondamentaux de Python**
 - **Projet Réel de la Semaine :** Calculatrice basique : Créer une application de calculatrice qui peut effectuer des opérations simples telles que l'addition, la soustraction, la multiplication et la division.

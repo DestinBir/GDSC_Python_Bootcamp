@@ -34,8 +34,8 @@
 - Jour 30 : Évaluation finale pour évaluer la compréhension globale des apprenants.
 
 **Ressources supplémentaires :**
-- Documentation Python officielle: https://python.org
-- Articles et supports: https://codegrowthalive.com/blog 
+- Documentation Python officielle: https://docs.python.org/
+- Articles et supports: https://codegrowthalive.com/blog/
 - Forum WhatsApp de discussion sur le bootcamp pour poser des questions et obtenir de l'aide: 
 - Livres recommandés pour approfondir les connaissances en Python.
 

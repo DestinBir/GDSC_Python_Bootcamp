@@ -10,7 +10,7 @@
 
 Les instructions conditionnelles permettent d'exécuter des blocs de code différents en fonction de conditions spécifiques. Elles sont essentielles pour écrire des programmes qui peuvent prendre des décisions.
 
-###### Exemple de la vie réelle en Afrique : Vérification de l'âge pour voter
+###### Exemple  : Vérification de l'âge pour voter
 En Afrique, de nombreux pays exigent que les citoyens aient au moins 18 ans pour voter. Voici comment nous pourrions utiliser des instructions conditionnelles pour vérifier si une personne est éligible pour voter.
 
 ```python
@@ -32,7 +32,7 @@ Les boucles permettent de répéter des blocs de code plusieurs fois. Il existe 
 ###### Boucle `for`
 La boucle `for` est utilisée pour itérer sur une séquence (liste, tuple, dictionnaire, ensemble ou chaîne de caractères).
 
-###### Exemple de la vie réelle en Afrique : Calcul des prix des fruits sur le marché
+###### Exemple : Calcul des prix des fruits sur le marché
 
 Supposons que nous voulons calculer le total des prix des fruits achetés sur un marché local.
 
@@ -41,10 +41,10 @@ fruits = {"banane": 100, "pomme": 200, "orange": 150}
 total = 0
 
 for fruit, prix in fruits.items():
-    print(f"Le prix de {fruit} est {prix} FCFA")
+    print(f"Le prix de {fruit} est {prix} FC")
     total += prix
 
-print(f"Le coût total est {total} FCFA")
+print(f"Le coût total est {total} FC")
 ```
 
 Dans cet exemple, nous avons un dictionnaire de fruits avec leurs prix en FCFA. La boucle `for` itère sur chaque fruit et ajoute le prix au total. Finalement, le coût total des fruits est affiché.
@@ -52,7 +52,7 @@ Dans cet exemple, nous avons un dictionnaire de fruits avec leurs prix en FCFA. 
 ###### Boucle `while`
 La boucle `while` continue de s'exécuter tant qu'une condition est vraie.
 
-###### Exemple de la vie réelle en Afrique : Remplir des seaux d'eau jusqu'à ce qu'ils soient pleins
+###### Exemple  : Remplir des seaux d'eau jusqu'à ce qu'ils soient pleins
 
 Imaginons que nous devons remplir des seaux d'eau jusqu'à ce qu'ils soient pleins. Supposons que la capacité d'un seau est de 10 litres.
 

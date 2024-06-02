@@ -3,6 +3,7 @@
 **Objectif :** Ce bootcamp intensif de 30 jours vise à fournir aux débutants une introduction complète à la programmation en Python, en se concentrant sur les concepts fondamentaux et en offrant des projets pratiques pour renforcer les compétences acquises.
 
 **Jour 1-5 : Fondamentaux de Python**
+[]()
 - Jour 1 : Introduction à Python : installation et configuration de l'environnement de développement.
 - Jour 2 : Variables, types de données et opérateurs.
 - Jour 3 : Structures de contrôle : instructions conditionnelles (if, elif, else) et boucles (for, while).

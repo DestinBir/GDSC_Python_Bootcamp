@@ -15,13 +15,13 @@
 - Jour 10 : Compréhensions de liste et dictionnaire.
 
 **Jour 11-15 : Programmation Orientée Objet (POO)**
-- Jour 11-12 : Concepts de base de la POO : classes et objets.
-- Jour 13-14 : Encapsulation, héritage, et polymorphisme.
-- Jour 15 : Application de la POO dans des projets pratiques.
+- Jour 11-13 : Concepts de base de la POO : classes et objets.
+- Jour 13-15 : Encapsulation, héritage, et polymorphisme.
+- Jour 16 : Application de la POO dans des projets pratiques.
 
-**Jour 16-20 : Manipulation de Fichiers et Modules**
-- Jour 16-17 : Lecture et écriture de fichiers.
-- Jour 18-19 : Gestion des exceptions.
+**Jour 17-20 : Manipulation de Fichiers et Modules**
+- Jour 17 : Lecture et écriture de fichiers.
+- Jour 18-19 : Gestion des exceptions et erreurs.
 - Jour 20 : Introduction aux modules et packages.
 
 **Jour 21-25 : Projets Pratiques**

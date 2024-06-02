@@ -11,7 +11,7 @@
 Les instructions conditionnelles permettent d'exécuter des blocs de code différents en fonction de conditions spécifiques. Elles sont essentielles pour écrire des programmes qui peuvent prendre des décisions.
 
 ###### Exemple  : Vérification de l'âge pour voter
-En Afrique, de nombreux pays exigent que les citoyens aient au moins 18 ans pour voter. Voici comment nous pourrions utiliser des instructions conditionnelles pour vérifier si une personne est éligible pour voter.
+De nombreux pays exigent que les citoyens aient au moins 18 ans pour voter. Voici comment nous pourrions utiliser des instructions conditionnelles pour vérifier si une personne est éligible pour voter.
 
 ```python
 age = 20
@@ -47,7 +47,7 @@ for fruit, prix in fruits.items():
 print(f"Le coût total est {total} FC")
 ```
 
-Dans cet exemple, nous avons un dictionnaire de fruits avec leurs prix en FCFA. La boucle `for` itère sur chaque fruit et ajoute le prix au total. Finalement, le coût total des fruits est affiché.
+Dans cet exemple, nous avons un dictionnaire de fruits avec leurs prix en FC. La boucle `for` itère sur chaque fruit et ajoute le prix au total. Finalement, le coût total des fruits est affiché.
 
 ###### Boucle `while`
 La boucle `while` continue de s'exécuter tant qu'une condition est vraie.
@@ -68,5 +68,3 @@ print("Le seau est plein!")
 ```
 
 Dans cet exemple, la boucle `while` continue d'ajouter 1 litre d'eau au seau tant que le total des litres ajoutés est inférieur à la capacité du seau. Une fois que le seau est plein (10 litres), la boucle s'arrête et un message est affiché pour indiquer que le seau est plein.
-
----

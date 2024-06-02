@@ -4,11 +4,11 @@
 
 **Jour 1-5 : Fondamentaux de Python**
 
-- [Jour 1 : Introduction à Python](Jour 1 : Introduction à Python) : installation et configuration de l'environnement de développement.
-- [Jour 2 : Variables, types de données et opérateurs](Jour 2 : Variables, types de données et opérateurs).
-- [Jour 3 : Structures de contrôle](Jour 3 : Structures de contrôle) : instructions conditionnelles (if, elif, else) et boucles (for, while).
-- [Jour 4 : Fonctions et leurs arguments](Jour 4 : Fonctions et leurs arguments).
-- [Jour 5 : Exercices pratiques](Jour 5 : Exercices pratiques) pour mettre en pratique les concepts appris.
+- [Jour 1 : Introduction à Python](Jour_1.md) : installation et configuration de l'environnement de développement.
+- [Jour 2 : Variables, types de données et opérateurs](Jour_2.md).
+- [Jour 3 : Structures de contrôle](Jour_3.md) : instructions conditionnelles (if, elif, else) et boucles (for, while).
+- [Jour 4 : Fonctions et leurs arguments](Jour_4.md).
+- [Jour 5 : Exercices pratiques](Jour_5.md) pour mettre en pratique les concepts appris.
 
 **Jour 6-10 : Structures de Données**
 - Jour 6-7 : Listes et tuples : manipulation et accès aux éléments.

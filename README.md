@@ -11,9 +11,9 @@
 - [Jour 5 : Exercices pratiques](SEMAINE_1/Jour_5.md) pour mettre en pratique les concepts appris.
 
 **Jour 6-10 : Structures de Données**
-- Jour 6-7 : Listes et tuples : manipulation et accès aux éléments.
-- Jour 8-9 : Dictionnaires : création, manipulation et accès aux éléments.
-- Jour 10 : Compréhensions de liste et dictionnaire.
+- [Jour 6-7 : Listes et tuples](SEMAINE_2/Jour_6-7.ipynb) : manipulation et accès aux éléments.
+- [Jour 8-9 : Dictionnaires](SEMAINE_2/Jour_8-9.ipynb) : création, manipulation et accès aux éléments.
+- [Jour 10 : Compréhensions](SEMAINE_2/Jour_10.ipynb) de liste et dictionnaire.
 
 **Jour 11-15 : Programmation Orientée Objet (POO)**
 - Jour 11-13 : Concepts de base de la POO : classes et objets.
